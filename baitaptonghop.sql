@@ -16,7 +16,7 @@ VALUES
 ('P04', 'Áo hoodie', NULL, -200000);
 
 UPDATE product 
-SET price = '40000' WHERE product_id = 'P01';
+SET price = '40000' WHERE product_id = 'P02';
 
 UPDATE product
 SET price = price * 1.1;
